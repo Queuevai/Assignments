@@ -93,7 +93,6 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHELLCHECK.PATH": "C:\\Users\\VSOMESH\\AppData\\Roaming\\JetBrains\\IntelliJIdea2025.1\\plugins\\Shell Script\\shellcheck.exe",
-    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -129,7 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1758781446621</updated>
       <workItem from="1758781449022" duration="12924000" />
-      <workItem from="1758794596462" duration="83000" />
+      <workItem from="1758794596462" duration="863000" />
     </task>
     <task id="LOCAL-00001" summary="Dump">
       <option name="closed" value="true" />
